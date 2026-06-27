@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="This application allows users to capture photos and set them as the app background."
+        android:text="STUDENTS:\n\nJAMABO Alexander Datonye - DE.2023/7945\nOJIYOWI Jennifer - DE.2023/7950"
         android:textSize="20sp"/>
 
 </LinearLayout>
